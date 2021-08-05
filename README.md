@@ -9,6 +9,8 @@ This Project is a beginner friendly project I built using ReactJs. Some key Feat
 
 Deployed live on https://covid-19-tracker-702ef.web.app/ Check out!
 
+![]()
+
 
 
 
