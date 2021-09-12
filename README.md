@@ -1,7 +1,8 @@
 # Covid 19 Tracker App
 
-This Project is a beginner friendly project I built using ReactJs. Some key Features:
+>This Project is a beginner friendly project I built using ReactJs. 
 
+### Some key Features:
 - Shows Live Cases, Recoveries, Deaths (clickable tabs).
 - Shows Worldwide cases and Country Based cases.
 - Line Chart shows fluctuations over days.
